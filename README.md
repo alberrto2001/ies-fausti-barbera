@@ -1,5 +1,5 @@
 # ies-fausti-barbera
-En este documentos vamos a encontrar todo tipos de ejemplos de código:
+## En este documentos vamos a encontrar todo tipos de ejemplos de código:
 1. Negrita: ** ** ej: **Hola mundo**
 2. Cursiva: * * ej: *Hola mundo*
 3. Tachado: ~~ ~~ ej: ~~Hola mundo~~ AltGr+4
@@ -19,3 +19,10 @@ En este documentos vamos a encontrar todo tipos de ejemplos de código:
 15. Lista de tareas es con - [] Hola mundo y una X dentro del corchete si esta echo
 - [x] Hola mundo
 - [] Adios mundo
+
+### Aqui vamos a tener distintas carpetas una por cada modulo:
+1. Sistemas Informaticos
+2. Bases de Datos
+3. Lenguaje de Marcas
+4. Entornos de Desarrollo
+5. Programación
